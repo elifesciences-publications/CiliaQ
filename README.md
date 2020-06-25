@@ -1,3 +1,5 @@
+This code is associated with the paper from Hansen et al., "Nanobody-directed targeting of optogenetic tools to study signaling in the primary cilium". eLife, 2020. http://doi.org/10.7554/eLife.57907
+
 # CiliaQ
 An ImageJ plugin to quantify ciliary shape, length, and fluorescence in 2D, 3D, and 4D images. Download CiliaQ from the latest release at the [release page](https://github.com/hansenjn/CiliaQ/releases).
 
